@@ -6,6 +6,7 @@ def main():
 	if num == 3: return 'Odd'
 	if num == 4: return 'Even'
 	if num == 5: return 'Odd'
+	if num == 6: return 'Even'
 	return 'Odd'
         
 if __name__ == "__main__":
